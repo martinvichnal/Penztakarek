@@ -1,0 +1,48 @@
+Kenyer,430,1,5
+Harmoszog medvesajt,519,2,5
+Monster,429,1,5
+ARANY,199999,2,5
+Ezust,10000,1,5
+Ferrari F40,298484356,1,5
+Roller,10000,1,5
+Kifli,500,15,5
+Porsche,900000,1,5
+Kenyer,329,1,5
+Kenyer,430,1,5
+Harmoszog medvesajt,519,2,5
+Monster,429,1,5
+ARANY,199999,2,5
+Ezust,10000,1,5
+Ferrari F40,298484356,1,5
+Roller,10000,1,5
+Kifli,500,15,5
+Porsche,900000,1,5
+Kenyer,329,1,5
+Kenyer,430,1,5
+Harmoszog medvesajt,519,2,5
+Monster,429,1,5
+ARANY,199999,2,5
+Ezust,10000,1,5
+Ferrari F40,298484356,1,5
+Roller,10000,1,5
+Kifli,500,15,5
+Porsche,900000,1,5
+Kenyer,329,1,5
+Kenyer,430,1,5
+Harmoszog medvesajt,519,2,5
+Monster,429,1,5
+ARANY,199999,2,5
+Ezust,10000,1,5
+Ferrari F40,298484356,1,5
+Roller,10000,1,5
+Kifli,500,15,5
+Porsche,900000,1,5
+Kenyer,329,1,5
+
+5,5,5,5
+Bicikli,134000,1,5
+Nemtudom,320000,1,10
+Szeretet,490000,1,10
+Szeretet,325000,1,10
+sajt,2000,1,2
+n,0,0,2
